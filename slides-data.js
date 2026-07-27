@@ -8,6 +8,8 @@ const slidesData = [
     submittedTo: 'Prof. Huda Hassan',
     date: 'July 2026',
     authors: [
+
+      'Ahmed Gamal',
       'Amir Tadros',
       'Ayman Abass',
       'Mai Mahmoud',
