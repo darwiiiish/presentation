@@ -8,14 +8,7 @@ const slidesData = [
     submittedTo: 'Prof. Huda Hassan',
     date: 'July 2026',
     authors: [
-
-      'Ahmed Gamal',
-      'Amir Tadros',
-      'Ayman Abass',
-      'Mai Mahmoud',
-      'Mamdouh Mohamed',
-      'Salem Nasr',
-      'Wesam Mohamed'
+      'Dr. Mamdouh Mohamed'
     ],
     hasLogo: true,
     bgImage: 'assets/forest-light.png'

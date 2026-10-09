@@ -263,7 +263,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 break;
         }
 
-        slideEl.innerHTML = bgHtml + renderCorners(index) + '<div class="z-10 w-full max-h-[calc(100vh-5.5rem)] flex flex-col items-center justify-center overflow-hidden my-auto px-4 py-2">' + contentHtml + '</div>';
+        slideEl.innerHTML = bgHtml + renderCorners(index) + '<div class="z-10 w-full max-h-[calc(100vh-5.5rem)] flex flex-col items-center justify-center overflow-y-auto my-auto px-4 py-2 [scrollbar-width:thin]">' + contentHtml + '</div>';
         return slideEl;
     }
 
